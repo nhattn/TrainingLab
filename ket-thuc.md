@@ -47,6 +47,9 @@ trả về kết quả cho người dùng
 
 Kết quả trả về là một **Dict** gồm `chủ đề` + `câu trả lời`
 
+> Lưu ý: có thể sử dụng ở màn hình `console` để đơn giản giảm quá trình thiết
+> kế giao diện cũng như quá trình máy chấm sẽ chạy khả quan hơn
+
 Chúc mọi người hoàn thành tốt, chào trân trọng và hợp tác cùng mọi người.
 
 Đà Lạt 31/05/2022
