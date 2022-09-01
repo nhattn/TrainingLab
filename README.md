@@ -3,6 +3,15 @@
 > Để tiện theo dõi cũng như quá trình học tập của Anh/Chị/Em trong thời gian
 > này xin vui lòng làm theo những hướng dẫn sau
 
+> **Do thời gian này không có thời gian rảnh rỗi nên không dạy trực tiếp
+> được mong mọi người hãy tải giao trình + bài ví dụ chi tiết trong thư
+> mục `BOOKS` của máy chủ ạ.** có thắc mắc vui lòng thêm vào thư mục `QUESTION`
+> trong thư mục của mọi người giải đáp sẽ được trả lời trong vòng 24 giờ
+> 
+> *Cám ơn mọi người đã tin tưởng trong suốt thời gian qua*
+>
+> **Trần Ngọc Nhật**
+
 1. Truy cập vào máy chủ có tên là `CubeHub` thông qua phương thức `P2P`
 2. Tạo thư mục với số CMND/CCCD để lưu trữ mã nguồn của bạn
 3. Trong thư mục sẽ tạo ba thư mục có tên `CODE`, `IDEA`, `DOCS` lưu ý phải
